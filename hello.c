@@ -10,4 +10,6 @@
 
 int main(void){
     printf("Anandhu R Nair\n");
+    printf("Computer Engineering\n");
+    
 }
